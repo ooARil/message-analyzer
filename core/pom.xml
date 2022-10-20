@@ -53,7 +53,7 @@
     </dependencies>
 
     <build>
-        <!--        <finalName>analyzer-service</finalName>-->
+        <finalName>message-analyzer-${project.version}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
