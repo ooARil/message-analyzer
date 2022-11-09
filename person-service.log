@@ -1,0 +1,7 @@
+2022-11-09 15:33:01.031  INFO 3376 --- [main] l.m.m.core.MessageAnalyzerApplication    : Starting MessageAnalyzerApplication using Java 11.0.16 on LAPTOP-6ITRB0QA with PID 3376 (D:\Образование\ДОП - образование\Java - Backend\Liga Course\Домашние задания\message-analyzer\core\target\classes started by dark2 in D:\Образование\ДОП - образование\Java - Backend\Liga Course\Домашние задания\message-analyzer)
+2022-11-09 15:33:01.036  INFO 3376 --- [main] l.m.m.core.MessageAnalyzerApplication    : No active profile set, falling back to default profiles: default
+2022-11-09 15:33:03.731  INFO 3376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-11-09 15:33:03.743  INFO 3376 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-09 15:33:03.744  INFO 3376 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-11-09 15:33:03.843  INFO 3376 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-09 15:33:03.844  INFO 3376 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2747 ms

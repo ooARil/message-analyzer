@@ -3,7 +3,7 @@ package liga.medical.messageanalyzer.core.service;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import liga.medical.messageanalyzer.core.api.MessageAnalyzerSenderService;
-import liga.medical.model.RabbitMessageDTO;
+import liga.medical.model.dto.RabbitMessageDTO;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.stereotype.Service;
 
